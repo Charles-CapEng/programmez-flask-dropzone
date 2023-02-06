@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <title>Flask dropzone tuto</title>
+    <head>
+        {{ dropzone.load_css() }}
+    </head>
+    <body>
+        <h1>My dropzone:</h1>
+        {{ dropzone.create(action='upload') }}
+        {{ dropzone.config() }}
+        {{ dropzone.load_js() }}
+    </body>
+</html>
