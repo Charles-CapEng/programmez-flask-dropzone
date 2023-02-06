@@ -11,3 +11,7 @@ git clone https://github.com/Charles-CapEng/Programmez.git
 
 ## Launch application
 On windows: " & 'C:\Users\Charles\AppData\Local\Programs\Python\Python311\python.exe' '-m' 'flask' 'run' '--no-debugger' '--no-reload'"
+On browser: "http://127.0.0.1:5000/"
+
+## Result
+![image](https://user-images.githubusercontent.com/124596833/217024501-8412ef3a-20ef-4bd0-94f1-85ea00ccc11e.png)
