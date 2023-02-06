@@ -14,4 +14,4 @@ git clone https://github.com/Charles-CapEng/Programmez.git
 2. On browser: "http://127.0.0.1:5000/"
 
 ## Result
-![image](https://user-images.githubusercontent.com/124596833/217024501-8412ef3a-20ef-4bd0-94f1-85ea00ccc11e.png)
+![image](https://user-images.githubusercontent.com/124596833/217026452-ecebeddd-5110-4e52-a33f-e7be6798360d.png)
